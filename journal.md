@@ -1,1 +1,3 @@
-# 8/17/23
+# August - 17 - 2023
+# August - 18 - 2023 
+So today I informed myself about prompts. As I understood prompts are pieces of texts that you can give to a computer based model, that is able to answer, examine or explain that piece of text or the command you gave it. It seems like the section teaches me about how to work with these kind of tools. I also informed myself about what a Software Architect does. It seems like you build different code based applications on a different level to reach a final product. This can be performed in a team or alone. The basic skills as a Software Architect are simple coding, documentation, communicationj and some more. This field allows me to create my own applications or finish them for clients or work in a team of Software Architects.

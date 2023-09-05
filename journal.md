@@ -21,3 +21,5 @@ Today I completed lesson 2.11 on CodeHS. Here I learned about variables. They ca
 Today I completed lesson 2.12 and 2.13 on CodeHS. Here I learned about user input, to make my code userfriendly and the user is able to choose different sizes od every different function. I also learned about Parameters to use in functions. It is used to make our code shorter by being able to let funtions differ depending on what you write in the parenthesis after the function name.
 # September - 1 - 2023
 Today I learned how to have further control with the i in for loops. Otherwise I don't have a good day and didn't got much work done and didn't really understand either.
+# September - 5 - 2023
+Today I started by understanding the stuff I didn't last lesson, then I completed lesson 2.15 on CodeHS and kind of understood how to have further control with the value of i. Then I learned about if statements and hwo they help to skip certain parts in the code if they are not true based on the if statement. I completetd lesson 2.16 except the last exercise.

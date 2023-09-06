@@ -23,3 +23,5 @@ Today I completed lesson 2.12 and 2.13 on CodeHS. Here I learned about user inpu
 Today I learned how to have further control with the i in for loops. Otherwise I don't have a good day and didn't got much work done and didn't really understand either.
 # September - 5 - 2023
 Today I started by understanding the stuff I didn't last lesson, then I completed lesson 2.15 on CodeHS and kind of understood how to have further control with the value of i. Then I learned about if statements and hwo they help to skip certain parts in the code if they are not true based on the if statement. I completetd lesson 2.16 except the last exercise.
+# September - 6 - 2023
+I finally completed the last exercise of lesson 2.16, with a littlie help.

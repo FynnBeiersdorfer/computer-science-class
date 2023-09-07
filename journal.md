@@ -25,3 +25,5 @@ Today I learned how to have further control with the i in for loops. Otherwise I
 Today I started by understanding the stuff I didn't last lesson, then I completed lesson 2.15 on CodeHS and kind of understood how to have further control with the value of i. Then I learned about if statements and hwo they help to skip certain parts in the code if they are not true based on the if statement. I completetd lesson 2.16 except the last exercise.
 # September - 6 - 2023
 I finally completed the last exercise of lesson 2.16, with a littlie help.
+# September - 7 - 2023
+In this class I started and completed lesson 2.17 on CodeHS, here I learned more about if/elif/else statements to control the different options in my code. It is also used to make user input more comfortable, by having dofferent optionsfor the user.

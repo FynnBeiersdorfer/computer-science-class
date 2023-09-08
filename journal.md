@@ -27,3 +27,5 @@ Today I started by understanding the stuff I didn't last lesson, then I complete
 I finally completed the last exercise of lesson 2.16, with a littlie help.
 # September - 7 - 2023
 In this class I started and completed lesson 2.17 on CodeHS, here I learned more about if/elif/else statements to control the different options in my code. It is also used to make user input more comfortable, by having dofferent optionsfor the user.
+# September - 8 - 2023
+Today I learned about while loops in lesson 2.18 on CodeHS. While loops help to repeat a code unlimited times until the statement becomes true, after it becomes true it will execute the given command after the while loop. I completed lesson 2.18 on CodeHS.

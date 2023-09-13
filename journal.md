@@ -31,5 +31,7 @@ In this class I started and completed lesson 2.17 on CodeHS, here I learned more
 Today I learned about while loops in lesson 2.18 on CodeHS. While loops help to repeat a code unlimited times until the statement becomes true, after it becomes true it will execute the given command after the while loop. I completed lesson 2.18 on CodeHS.
 # September - 11 - 2023
 Today I started lesson 2.19 on CodeHS, here I had a summary about everything I learned so far and I learned about the clear() command. After that I tried the first exercise, but had problems at first with it. After I decided to finish that exercise tomorrow.
-# september - 12 - 2023
+# September - 12 - 2023
 In this class I finished the first and the second exercise on CodeHS lesson 2.19. I struggle a bit at th elast exercise, which I am going to end tomorrow and so finish the turtle part ojn CodeHS.
+# September - 13 - 2023
+I successfully completed the Tracy Module on CodeHS!

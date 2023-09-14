@@ -36,4 +36,4 @@ In this class I finished the first and the second exercise on CodeHS lesson 2.19
 # September - 13 - 2023
 I successfully completed the Tracy Module on CodeHS!
 # September - 14 - 2023
-In this lesson I started with the real python coding on CodeHS. In the first module I learned the print("") code with which I can print simple text to the display.
+In this lesson I started with the real python coding on CodeHS. In the first module I learned the print("") code with which I can print simple text to the display. In the next module I learned about the variables in python and how they were used. I also learned how to find out the class of a variable. I completed modules 3.1 and 3.2.

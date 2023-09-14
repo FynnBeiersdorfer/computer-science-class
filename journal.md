@@ -35,3 +35,5 @@ Today I started lesson 2.19 on CodeHS, here I had a summary about everything I l
 In this class I finished the first and the second exercise on CodeHS lesson 2.19. I struggle a bit at th elast exercise, which I am going to end tomorrow and so finish the turtle part ojn CodeHS.
 # September - 13 - 2023
 I successfully completed the Tracy Module on CodeHS!
+# September - 14 - 2023
+In this lesson I started with the real python coding on CodeHS. In the first module I learned the print("") code with which I can print simple text to the display.

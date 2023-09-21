@@ -39,3 +39,5 @@ I successfully completed the Tracy Module on CodeHS!
 In this lesson I started with the real python coding on CodeHS. In the first module I learned the print("") code with which I can print simple text to the display. In the next module I learned about the variables in python and how they were used. I also learned how to find out the class of a variable. I completed modules 3.1 and 3.2.
 # September - 20 - 2023
 In this class period I started and completed lesson 3.3 on codeHS. I learned how to use user input in my code to make it interactive for the user. It's exactly the same concept like the Tracy codes, so I have no problem using it.  
+# September - 21 - 2023  
+In this period I started and completed lesson 3.4 on CodeHS. I learned about mathematical operators and how to use them in code, aswell as how you write it down with your keyboard.

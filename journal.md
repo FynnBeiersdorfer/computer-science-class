@@ -43,3 +43,5 @@ In this class period I started and completed lesson 3.3 on codeHS. I learned how
 In this period I started and completed lesson 3.4 on CodeHS. I learned about mathematical operators and how to use them in code, aswell as how you write it down with your keyboard.
 # September - 25 - 2023
 Today I started lessonm 3.5 on CodeHS here I learned about string operators and how to use them. I struggled a bit at the last exercise, but I will finish it tomorrow.
+# September - 26 - 2023
+I completed the last  task of lesson 3.5. I wont't go on because of headache.

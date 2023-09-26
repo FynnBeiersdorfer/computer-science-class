@@ -41,3 +41,5 @@ In this lesson I started with the real python coding on CodeHS. In the first mod
 In this class period I started and completed lesson 3.3 on codeHS. I learned how to use user input in my code to make it interactive for the user. It's exactly the same concept like the Tracy codes, so I have no problem using it.  
 # September - 21 - 2023  
 In this period I started and completed lesson 3.4 on CodeHS. I learned about mathematical operators and how to use them in code, aswell as how you write it down with your keyboard.
+# September - 25 - 2023
+Today I started lessonm 3.5 on CodeHS here I learned about string operators and how to use them. I struggled a bit at the last exercise, but I will finish it tomorrow.

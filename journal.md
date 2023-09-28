@@ -45,3 +45,5 @@ In this period I started and completed lesson 3.4 on CodeHS. I learned about mat
 Today I started lessonm 3.5 on CodeHS here I learned about string operators and how to use them. I struggled a bit at the last exercise, but I will finish it tomorrow.
 # September - 26 - 2023
 I completed the last  task of lesson 3.5. I wont't go on because of headache.
+# September - 28 - 2023  
+Today I completed the basic python console interactions module. At the end I only learned about comments in python and how they help to make my code more userfriendly. I completed the quiz with 15/20 questions.

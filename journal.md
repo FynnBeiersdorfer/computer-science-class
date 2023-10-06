@@ -49,3 +49,5 @@ I completed the last  task of lesson 3.5. I wont't go on because of headache.
 Today I completed the basic python console interactions module. At the end I only learned about comments in python and how they help to make my code more userfriendly. I completed the quiz with 15/20 questions.
 # October - 2 - 2023  
 Today I started a new module on CodeHS, module 4. Here I started with lesson 4.1 and completed it. I learned about True or False statements in python.
+# October - 6 - 2023
+Completed lesson 4.2!
